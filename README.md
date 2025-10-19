@@ -184,7 +184,18 @@ with the ultimate goal of creating a chip capable of **natively running a JavaSc
 **Final Call**
 Ladies and gentlemen, **JSilicon v0.2 has landed at the chip manufacturing airport**.  
 Please proceed with the final boarding and customs.  
-real silicon awaits.
+real silicon awaits.  
+
+**Behind**
+The Story Behind JSilicon v0.2 is Now Live!  
+
+The memoir detailing the development **begind Project JSilicon v0.2** has been uploaded to Medium!  
+
+it's the story of an AI undergraduate and a soldier who, against the odds, took on the chanllenge of developing a custom chipset from scratch  
+
+Wishing everone a great day!  
+
+[JSilicon Medium Story Link](https://medium.com/@mirseo/군대에서-태어난-asic-cpu-군-복무-중-탄생한-jsilicon-이야기-80924e5a2be0)  
 
 ## Language
 - [English](./README.md)

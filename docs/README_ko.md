@@ -194,6 +194,15 @@ JSilicon v0.2 는 이제 최종 목적지에 도달했습니다.
 여러분, JSilicon v0.2는 칩 제조 공항에 착륙했습니다.  
 이제 입국 수속만 남았습니다. 실제 실리콘으로의 변환이 시작되었습니다.  
 
+**Behind**
+프로젝트 JSilicon v0.2의 개발 비하인드가 담긴 회고록이 Medium에 업로드되었습니다!  
+
+어렵지만, 처음부터 칩셋 개발에 도전했던 한 AI 학부생이자 군인의 이야기입니다.  
+
+오늘도 모두 좋은 하루 보내세요!  
+
+[JSilicon Medium Story Link](https://medium.com/@mirseo/군대에서-태어난-asic-cpu-군-복무-중-탄생한-jsilicon-이야기-80924e5a2be0)  
+
 ## Language
 - [한국어](./docs/README_ko.md)
 - [English](../README.md)
